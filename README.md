@@ -8,8 +8,8 @@
 
    
 
-4. Start Apache and MySQL services from the XAMPP control panel.
-5. 
+3. Start Apache and MySQL services from the XAMPP control panel.
+ 
 
    
    ![image](https://github.com/AadenAaric/phpAndSql/assets/92848128/2075b82a-a1aa-423d-8ff0-d97c4afa9c6d)
@@ -17,7 +17,7 @@
 
 
    
-6. Access phpMyAdmin by clicking on the "Admin" button next to MySQL in the XAMPP control panel.
+4. Access phpMyAdmin by clicking on the "Admin" button next to MySQL in the XAMPP control panel.
 
    
    
@@ -27,14 +27,14 @@
 
 
 
-7. In phpMyAdmin, create a new database named "test" and within it, create a table named "registration" with 7 columns: ID, name, address, email, contact, gender, qualification, and ethnicity. Make sure to set the ID column as the PRIMARY KEY and check the A_I (Auto Increment) option.
+5. In phpMyAdmin, create a new database named "test" and within it, create a table named "registration" with 7 columns: ID, name, address, email, contact, gender, qualification, and ethnicity. Make sure to set the ID column as the PRIMARY KEY and check the A_I (Auto Increment) option.
 
     
    ![image](https://github.com/AadenAaric/phpAndSql/assets/92848128/c2ff3f85-0a6d-40ac-8aa9-1f7a0e31e39a
 
    
 
-8. Now, extract the folder provided and move it to the 'htdocs' folder in your XAMPP installation directory. Your folder path should look like this: Drive:\xampp\htdocs\'YourFolderName'.
+6. Now, extract the folder provided and move it to the 'htdocs' folder in your XAMPP installation directory. Your folder path should look like this: Drive:\xampp\htdocs\'YourFolderName'.
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-9. Go back to XAMPP and click on the "Admin" button for Apache. Replace the "dashboard" part of the URL with "sohaibForm" to navigate to your site.
+7. Go back to XAMPP and click on the "Admin" button for Apache. Replace the "dashboard" part of the URL with "sohaibForm" to navigate to your site.
 
 
 
